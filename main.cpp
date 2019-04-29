@@ -13,7 +13,7 @@ void num()
     int i ;
     for(i=0;i<100;i++)
     {
-        //cout<<i<<endl;
+        i+=10;
     }
 }
 
