@@ -7,7 +7,7 @@
 #include <QTextStream>
 #include <LogIn/qdlglogin.h>
 
-//mql
+//mql/////
 void num()
 {
     int i ;
