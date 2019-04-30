@@ -7,16 +7,6 @@
 #include <QTextStream>
 #include <LogIn/qdlglogin.h>
 
-//mql/////
-void num()
-{
-    int i ;
-    for(i=0;i<100;i++)
-    {
-        i+=10;
-
-    }
-}
 
 
 /*************************************************************
